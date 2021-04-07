@@ -1,0 +1,15 @@
+= Simple Node JSON parser
+
+== Steps
+
+. Install Node with NVM: https://github.com/nvm-sh/nvm
+
+ $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+
+. Install latest Node version
+
+ $ nvm install node
+
+. Run script
+
+ $ node run parse
