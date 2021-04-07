@@ -10,6 +10,10 @@
 
  $ nvm install node
 
+. Install dependencies
+
+ $ npm install 
+
 . Run script
 
- $ node run parse
+ $ npm run parse
